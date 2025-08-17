@@ -1,4 +1,4 @@
-* Increasing the model capacity helps to learn more complex algorithms.
+1.* Increasing the model capacity helps to learn more complex algorithms.
    * Increasing the model capacity increases the computational cost.
 
 2.* Adding more hidden nodes to a neural network initially increases accuracy because it gives the model enough capacity to learn complex patterns in the data, preventing underfitting, and allows it to correctly fit the non-linear shape of the dataset.
